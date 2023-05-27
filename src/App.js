@@ -42,6 +42,24 @@ class App extends Component {
           </p>
           <LambdaDemo />
         </header>
+        <nav class="navbar background">
+          <ul class="nav-list">
+            <li>link1</li>
+            <li>link2</li>
+            <li>link3</li>
+          </ul>
+        </nav>
+
+        <section class="section">
+          <div class="box-main">
+            <h1 class="text-big">
+              Section1
+            </h1>
+            <p class="text-small">
+              This is filler text.
+            </p>
+          </div>
+        </section>
       </div>
     )
   }
