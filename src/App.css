@@ -46,6 +46,8 @@
 .nav-list li {
     list-style: none;
     padding: 26px 30px;
+    border-radius: 25px;
+    border: 2px solid #000000;
 }
 
 .box-main {
